@@ -1,0 +1,16 @@
+.Icon {
+  padding: 8px;
+  height: 100%;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.Icon img{
+  height: 100%;
+}
+
+@media (min-width: 500px){
+  .Icon{
+    display: none;
+  }
+}
